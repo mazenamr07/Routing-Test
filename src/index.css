@@ -1,0 +1,9 @@
+.bg {
+  background-color: rgb(43, 189, 157);
+  color: white;
+}
+
+hr {
+  width: 200px;
+  border: 2px solid white;
+}
