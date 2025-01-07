@@ -1,0 +1,8 @@
+nav {
+  background-color: rgb(44, 63, 80);
+}
+
+a.nav-link, .navbar-brand {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
