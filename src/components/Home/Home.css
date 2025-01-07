@@ -1,0 +1,14 @@
+.bg {
+  background-color: rgb(43, 189, 157);
+  color: white;
+}
+
+.bg h2 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+hr {
+  width: 200px;
+  border: 2px solid white;
+}
